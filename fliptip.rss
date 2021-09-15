@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[FlipTip]]></title>
+		<description><![CDATA[Technologie Podcast
+]]></description>
+		<link>https://anchor.fm/fliptip</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/17737327/17737327-1630953836445-1ab75f8fd0227.jpg</url>
+			<title>FlipTip</title>
+			<link>https://anchor.fm/fliptip</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Mon, 13 Sep 2021 16:26:47 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/6a5199dc/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Heinrich Meyer]]></author>
+		<copyright><![CDATA[Heinrich Meyer]]></copyright>
+		<language><![CDATA[de]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Heinrich Meyer</itunes:author>
+		<itunes:summary>Technologie Podcast
+</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Heinrich Meyer</itunes:name>
+			<itunes:email>podcasts60+6a5199dc@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Science"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/17737327/17737327-1630953836445-1ab75f8fd0227.jpg"/>
+		<item>
+			<title><![CDATA[FlipTip (Trailer)]]></title>
+			<link>https://anchor.fm/fliptip/episodes/ep-e16tg2q</link>
+			<guid isPermaLink="false">8977a326-7eb5-43e6-8d43-5a4ec262d7a0</guid>
+			<dc:creator><![CDATA[Heinrich Meyer]]></dc:creator>
+			<pubDate>Sat, 04 Sep 2021 16:29:00 GMT</pubDate>
+			<enclosure url="https://d3ctxlq1ktw2nl.cloudfront.net/production/2021-8-4/216603011-44100-2-1c26ea9609119.m4a" length="2559421" type="audio/x-m4a"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/17737327/17737327-1630953836445-1ab75f8fd0227.jpg"/>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
