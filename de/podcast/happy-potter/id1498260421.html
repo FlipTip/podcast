@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Apple Podcasts</title>
+		<script src="https://js-cdn.music.apple.com/musickit/v2/amp/musickit.js"></script>
+		<script
+			type="module"
+			data-resources-url="https://js-cdn.music.apple.com/musickit/v2/components/musickit-components/"
+			src="https://js-cdn.music.apple.com/musickit/v2/components/musickit-components/musickit-components.esm.js"
+		></script>
+		<script
+			nomodule=""
+			data-resources-url="https://js-cdn.music.apple.com/musickit/v2/components/musickit-components/"
+			src="https://js-cdn.music.apple.com/musickit/v2/components/musickit-components/musickit-components.js"
+		></script>
+		<style type="text/css">
+			body {
+				margin: 0;
+			}
+		</style>
+	</head>
+	<body>
+		<main>
+			<mediakit-root> <apple-podcast-player id="apple-embed" slot="mediakit-child"></apple-podcast-player> </mediakit-root>
+		</main>
+		<script src="https://embed.podcasts.apple.com/embed.js"></script>
+	</body>
+</html>
